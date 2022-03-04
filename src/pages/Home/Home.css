@@ -1,0 +1,19 @@
+.main {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 70vh;
+    max-width: 950px;
+    margin: 0 auto;
+  }
+  .filter{
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+  }
+  .add-todo{
+    display: flex;
+    justify-content: center;
+  }
+  
